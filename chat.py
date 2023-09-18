@@ -1,3 +1,4 @@
+# I wrote this in ~2 hours, don't @ me about code quality.
 import os
 
 from langchain.chains import VectorDBQA
